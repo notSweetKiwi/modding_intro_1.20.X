@@ -1,0 +1,13 @@
+{
+ "item.intro_mod.alexandrite": "Alexandrite",
+ "item.intro_mod.raw_alexandrite": "Raw Alexandrite",
+
+ "block.intro_mod.alexandrite_block": "Block of Alexandrite",
+ "block.intro_mod.raw_alexandrite_block": "Block of Raw Alexandrite",
+ "block.intro_mod.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
+ "block.intro_mod.alexandrite_ore": "Alexandrite Ore",
+ "block.intro_mod.end_stone_alexandrite_ore": "End Stone Alexandrite Ore",
+ "block.intro_mod.nether_alexandrite_ore": "nether_alexandrite_ore",
+
+ "creative_tab.mod_tab": "Mod Tab"
+}

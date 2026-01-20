@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "intro_mod:block/alexandrite_block"
+  }
+}
