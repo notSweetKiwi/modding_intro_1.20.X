@@ -1,6 +1,9 @@
 {
  "item.intro_mod.alexandrite": "Alexandrite",
  "item.intro_mod.raw_alexandrite": "Raw Alexandrite",
+ "item.intro_mod.metal_detector": "Metal Detector",
+ "item.intro_mod.kohlrabi": "Kohlrabi",
+ "item.intro_mod.peat_brick": "Peat Brick",
 
  "block.intro_mod.alexandrite_block": "Block of Alexandrite",
  "block.intro_mod.raw_alexandrite_block": "Block of Raw Alexandrite",
@@ -8,6 +11,13 @@
  "block.intro_mod.alexandrite_ore": "Alexandrite Ore",
  "block.intro_mod.end_stone_alexandrite_ore": "End Stone Alexandrite Ore",
  "block.intro_mod.nether_alexandrite_ore": "nether_alexandrite_ore",
+ "block.intro_mod.sound_block": "Sound Block",
 
- "creative_tab.mod_tab": "Mod Tab"
+ "tooltip.intro_mod.metal_detector.tooltip.shift": "Press §eShift§r for More Info",
+ "tooltip.intro_mod.metal_detector.tooltip": "Right Click on Blocs to Find Valuables",
+ "tooltip.intro_mod.sound_block": "Makes Sounds when Interacted with",
+
+ "creative_tab.mod_tab": "Mod Tab",
+
+ "item.intro_mod.metal_detector.no_valuables": "No valuables found!"
 }

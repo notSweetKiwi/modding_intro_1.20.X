@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "intro_mod:block/sound_block"
+    }
+  }
+}

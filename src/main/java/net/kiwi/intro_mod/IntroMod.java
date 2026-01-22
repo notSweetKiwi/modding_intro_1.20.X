@@ -21,7 +21,7 @@ import org.slf4j.Logger;
 public class IntroMod
 {
     public static final String MOD_ID = "intro_mod";
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
 
     public IntroMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();

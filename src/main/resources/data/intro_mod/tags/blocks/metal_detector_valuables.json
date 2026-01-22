@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "intro_mod:alexandrite_ore",
+    "#forge:ores"
+  ]
+}
