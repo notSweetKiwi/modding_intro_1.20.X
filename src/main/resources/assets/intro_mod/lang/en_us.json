@@ -7,6 +7,17 @@
 
  "block.intro_mod.alexandrite_block": "Block of Alexandrite",
  "block.intro_mod.raw_alexandrite_block": "Block of Raw Alexandrite",
+
+ "block.intro_mod.alexandrite_slab": "Alexandrite Slab",
+ "block.intro_mod.alexandrite_stairs": "Alexandrite Stairs",
+ "block.intro_mod.alexandrite_button": "Alexandrite Button",
+ "block.intro_mod.alexandrite_pressure_plate": "Alexandrite Pressure Plate",
+ "block.intro_mod.alexandrite_wall": "Alexandrite Wall",
+ "block.intro_mod.alexandrite_fence": "Alexandrite Fence",
+ "block.intro_mod.alexandrite_fence_gate": "Alexandrite Fence Gate",
+ "block.intro_mod.alexandrite_door": "Alexandrite Door",
+ "block.intro_mod.alexandrite_trapdoor": "Alexandrite Trapdoor",
+
  "block.intro_mod.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
  "block.intro_mod.alexandrite_ore": "Alexandrite Ore",
  "block.intro_mod.end_stone_alexandrite_ore": "End Stone Alexandrite Ore",
